@@ -1,5 +1,7 @@
+import { Navbar } from "./navbars/navbar-1/Navbar";
+
 function App() {
-  return <div className="App">hellow</div>;
+  return <Navbar />;
 }
 
 export default App;
