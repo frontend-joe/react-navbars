@@ -1,4 +1,4 @@
-import { Navbar } from "./navbars/navbar-1/Navbar";
+import { Navbar } from "./navbars/navbar-2/Navbar";
 
 function App() {
   return <Navbar />;
